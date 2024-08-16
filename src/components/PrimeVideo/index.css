@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.app-container {
+  font-family: 'Roboto';
+  height: 100vh;
+  background-color: #000000;
+}
+
+.logo-container {
+  width: 100%;
+  margin: 0;
+}
+
+.app-logo {
+  height: 25vh;
+  width: 100%;
+}
+
+.content-container {
+  padding-right: 40px;
+  padding-left: 40px;
+  width: 100%;
+  height: 75%;
+  margin: 0;
+  text-align: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 32px;
+  margin-top: 30px;
+  text-align: left;
+}
